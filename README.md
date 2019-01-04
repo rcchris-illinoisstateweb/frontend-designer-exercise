@@ -2,7 +2,7 @@
 
 Please complete both tasks defined below. **Bonus** tasks aren't required
 
-A starting [index.html](docs/index.html], [scripts.js](docs/scripts.js], and [style.css](docs/style.css] are provided in the docs folders. All external JavaScript libraries and CSS references are included. Screenshots of the expected output are provided in the screenshots folders. All tasks and bonuses should appear as shown in [01-completed.png](screenshots/01-completed.png) 
+A starting [index.html](docs/index.html), [scripts.js](docs/scripts.js), and [style.css](docs/style.css) are provided in the docs folders. All external JavaScript libraries and CSS references are included. Screenshots of the expected output are provided in the screenshots folders. All tasks and bonuses should appear as shown in [01-completed.png](screenshots/01-completed.png).
 
 ## Task 1
 
