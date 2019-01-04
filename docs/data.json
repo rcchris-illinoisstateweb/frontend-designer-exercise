@@ -1,112 +1,112 @@
 [
     {
         "_id": "5abe8a29c4197e9eb1a8739e",
-        "balance": "$2,841.09",
+        "balance": "2841.09",
         "age": 22,
         "fname": "Sallie",
         "lname": "Levy",
         "gender": "female",
         "company": "IRACK",
         "email": "sallielevy@irack.com",
-        "registered": "2015-11-08T05:50:47 +06:00"
+        "registered": "2015-11-08T05:50:47+0600"
     },
     {
         "_id": "5abe8a294551a3f71d4a59c1",
-        "balance": "$3,735.84",
+        "balance": "3735.84",
         "age": 31,
         "fname": "Cooper",
         "lname": "Huffman",
         "gender": "male",
         "company": "ISOLOGICS",
         "email": "cooperhuffman@isologics.com",
-        "registered": "2016-01-08T06:11:01 +06:00"
+        "registered": "2016-01-08T06:11:01+0600"
     },
     {
         "_id": "5abe8a29cfc50fb9180f7f01",
-        "balance": "$2,971.17",
+        "balance": "2971.17",
         "age": 20,
         "fname": "Villarreal",
         "lname": "Morales",
         "gender": "male",
         "company": "ZIPAK",
         "email": "villarrealmorales@zipak.com",
-        "registered": "2016-09-13T06:31:06 +05:00"
+        "registered": "2016-09-13T06:31:06+0500"
     },
     {
         "_id": "5abe8a2958a4f28580969a86",
-        "balance": "$3,585.08",
+        "balance": "3585.08",
         "age": 35,
         "fname": "Sargent",
         "lname": "Gates",
         "gender": "male",
         "company": "TRIPSCH",
         "email": "sargentgates@tripsch.com",
-        "registered": "2016-10-04T10:34:37 +05:00"
+        "registered": "2016-10-04T10:34:37+0500"
     },
     {
         "_id": "5abe8a29dc4ba7392bfa42df",
-        "balance": "$3,392.26",
+        "balance": "3392.26",
         "age": 28,
         "fname": "Brandy",
         "lname": "Webb",
         "gender": "female",
         "company": "TUBESYS",
         "email": "brandywebb@tubesys.com",
-        "registered": "2017-04-24T05:14:12 +05:00"
+        "registered": "2017-04-24T05:14:12+0500"
     },
     {
         "_id": "5abe8a29c4aad9cce70521bd",
-        "balance": "$3,372.93",
+        "balance": "3372.93",
         "age": 26,
         "fname": "Sharlene",
         "lname": "Byers",
         "gender": "female",
         "company": "EYERIS",
         "email": "sharlenebyers@eyeris.com",
-        "registered": "2014-02-11T03:12:21 +06:00"
+        "registered": "2014-02-11T03:12:21+0600"
     },
     {
         "_id": "5abe8a29099154e67d8ee611",
-        "balance": "$3,569.51",
+        "balance": "3569.51",
         "age": 22,
         "fname": "Molly",
         "lname": "Haney",
         "gender": "female",
         "company": "QUALITERN",
         "email": "mollyhaney@qualitern.com",
-        "registered": "2016-03-22T03:54:54 +05:00"
+        "registered": "2016-03-22T03:54:54+0500"
     },
     {
         "_id": "5abe8a29c65d2d296412744a",
-        "balance": "$1,189.49",
+        "balance": "1189.49",
         "age": 21,
         "fname": "Rush",
         "lname": "Richards",
         "gender": "male",
         "company": "SURELOGIC",
         "email": "rushrichards@surelogic.com",
-        "registered": "2014-01-09T04:59:08 +06:00"
+        "registered": "2014-01-09T04:59:08+0600"
     },
     {
         "_id": "5abe8a299408e72fb3fd9333",
-        "balance": "$1,532.18",
+        "balance": "1532.18",
         "age": 28,
         "fname": "Brittany",
         "lname": "Burnett",
         "gender": "female",
         "company": "SULTRAXIN",
         "email": "brittanyburnett@sultraxin.com",
-        "registered": "2015-01-26T01:00:56 +06:00"
+        "registered": "2015-01-26T01:00:56+0600"
     },
     {
         "_id": "5abe8a291553fbf9b8779fe5",
-        "balance": "$3,718.25",
+        "balance": "3718.25",
         "age": 21,
         "fname": "Randi",
         "lname": "Prince",
         "gender": "female",
         "company": "CINCYR",
         "email": "randiprince@cincyr.com",
-        "registered": "2017-05-29T01:15:55 +05:00"
+        "registered": "2017-05-29T01:15:55+0500"
     }
 ]
