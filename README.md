@@ -24,7 +24,7 @@ A starting [index.html](docs/index.html), [scripts.js](docs/scripts.js), and [st
 
 ## Task 2
 
-Example output [screenshot: 07-task2-full.png](screenshots/07-task2-full.png)
+![Task 2 screenshot](screenshots/07-task2-full.png)
 
 1. Utilize [Vue.js](https://vuejs.org/v2/guide/) to display people information pre-defined in the data object
 2. Display all people and their properties in a Bootstrap hoverable rows table. Make the table responsive friendly [screenshot: 08-task2-medium.png](screenshots/08-task2-medium.png)
