@@ -13,7 +13,7 @@ A starting [index.html](docs/index.html), [scripts.js](docs/scripts.js), and [st
 3. Use [Github Pages](https://pages.github.com/) to display your final result. Before editing any files, your Github page should look like this [repos page](https://rcchris-illinoisstateweb.github.io/frontend-designer-exercise/). 
 4. Utilize [Bootstrap's](https://getbootstrap.com/docs/4.2/getting-started/introduction/) **Layouts** and **Components** for all UI needs. You should NOT need to write additonal CSS to deliver expected output.
 5. Add a nav bar
-6. Create a row with 3 columns with the following: Media Object, Accordion, Row containing another row with a List group with badges in each column [screenshot: 02-task1-full.png](screenshots/02-task1-full.png)
+6. Create a row with 3 columns with the following: Media Object, Accordion, two column row containing a List group with badges in each column [screenshot: 02-task1-full.png](screenshots/02-task1-full.png)
 7. At the xlarge / full screen break point, the List group columns should be stacked on top of each other
 8. At the large break point, set columns 1 and 2 at 50% width and column 3 at 100% width with the List groups in 2 columns. [screenshot: 03-task1-large.png](screenshots/03-task1-large.png)
 9. At the small break point, return to stackings columns in column 3. [screenshot: 05-task1-small.png](screenshots/05-task1-small.png)
