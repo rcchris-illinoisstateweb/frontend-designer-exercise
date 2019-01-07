@@ -9,7 +9,7 @@ A starting [index.html](docs/index.html), [scripts.js](docs/scripts.js), and [st
 ## Task 1
 
 1. Use your existing / create a new Github account to store and present your exercise
-2. Download / fork this repo as your starting poing
+2. Download / fork this repo as your starting point
 3. Use [Github Pages](https://pages.github.com/) to display your final result. Before editing any files, your Github page should look like this [repos page](https://rcchris-illinoisstateweb.github.io/frontend-designer-exercise/). 
 4. Utilize [Bootstrap's](https://getbootstrap.com/docs/4.2/getting-started/introduction/) **Layouts** and **Components** for all UI needs. You should NOT need to write additonal CSS to deliver expected output.
 5. Add a nav bar
@@ -32,6 +32,6 @@ Example output [screenshot: 07-task2-full.png](screenshots/07-task2-full.png)
 4. Utilize [Axios](https://github.com/axios/axios) to make an XMLHttpRequests and load [data.json](docs/data.json) file into the Vue data model under the `people` property.
 
 **Bonus:**
-1. Create a filter and format the dates using [MomentJS](https://momentjs.com/) - see example output for format
-2. Create a filter and format the balances using [NumeralJS](http://numeraljs.com/) - see example output for format
-3. Create a method that sorts the people by last name.
+1. Create a Vue filter and format the dates using [MomentJS](https://momentjs.com/) - see example output for format
+2. Create a Vue filter and format the balances using [NumeralJS](http://numeraljs.com/) - see example output for format
+3. Create a Vue method that sorts the people by last name.
